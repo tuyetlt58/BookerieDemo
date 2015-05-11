@@ -1,0 +1,15 @@
+.header,.modal-header,.btn-custom:hover,.btn-custom:focus {
+	background-color: seagreen;
+}
+
+h1 {
+	color: seagreen;
+}
+
+body {
+	/*background-color: #a2c5bf;*/
+}
+
+.btn-custom {
+	background-color: #43a17c;
+}

@@ -1,0 +1,101 @@
+body {
+	background-color: #404040;
+}
+
+h1 {
+	/*color: #36465d;*/
+	margin: 0px;
+	padding: 10px;
+	font-family: "Myriad Pro","Arial";
+}
+
+form {
+	padding: 0px 20px;
+}
+
+dl {
+	margin: 0px;
+	padding: 0px;
+}
+
+p {
+	margin: 0px;
+}
+
+.bd {
+	border: 1px solid grey;
+}
+
+.post {
+	padding: 0px;
+	margin-top: 20px;
+	background-color: white;
+	border-radius: 6px;
+}
+
+.block {
+	background-color: transparent;
+	color: white;
+	margin-bottom: 20px;
+}
+
+.avatar {
+	padding: 0px;
+	/*margin-top: 20px;*/
+	margin-left: 20px;
+}
+
+.def {
+	margin: 0px;
+	padding: 0px;
+}
+
+.btn-custom,.btn-custom:hover,.btn-custom:focus {
+	color: white;
+	border: none;
+}
+
+.btn-default {
+	color: white;
+	background-color: transparent;
+}
+
+.no-border {
+	border: none;
+}
+
+.btn-noradius-left {
+	border-bottom-left-radius: 0px;
+}
+
+.btn-noradius-right {
+	border-bottom-right-radius: 0px;
+}
+
+.header {
+	height: 50px;
+	width: 100%;
+	background-color: #36465d;
+}
+
+.txt {
+	color: white;
+}
+
+.txt-black {
+	color: black;
+}
+
+.modal-header {
+	text-transform: uppercase;
+	background-color: #36465d;
+	color: white;
+}
+
+.close {
+	color: white;
+}
+
+.thumbnail {
+	border: none;
+}
